@@ -9,7 +9,7 @@
 - 🌱 I’m currently remastering other 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
 - 📫 How to reach me? email me at 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**philippandrew.redondo@ustp.edu.ph**.
 
 ## TOOLS 
 <h3 align="left">Languages and Tools:</h3>

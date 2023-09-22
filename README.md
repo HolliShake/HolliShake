@@ -2,7 +2,7 @@
     <h1>Hi there 👋, I'm HolliShake 👦.</h1>
 </div>
 
-## ❓ ABOUT andydevs69420
+## ❓ ABOUT HolliShake
 - ❤️ Interested in software development.
 - 💪 Currently working on a project called 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://github.com/andydevs69420/DTO-Eportfolio">DTO-Eportfolio</a>**.

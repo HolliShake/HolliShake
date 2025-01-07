@@ -18,4 +18,4 @@
 ## 🔥 STATISTICS
 | STATISTICS AND STREAKS | LANGUAGES |
 | --- | --- |
-|<p align="center" style="margin: 0px !important;">[![Github Stats](https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app)<br><br>[![GitHub Streak](https://streak-stats.demolab.comm/?user=HolliShake&theme=merko)](https://git.io/streak-stats)</p>|<p align="center" style="margin: 0px !important;">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&theme=merko&layout=compact)</p><br><br><br><br><br><br><br><br><br><br><br>|
+|<p align="center" style="margin: 0px !important;">[![Github Stats](https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app)<br><br>[![GitHub Streak](https://streak-stats.demolab.com?user=HolliShake&theme=merko)](https://git.io/streak-stats)</p>|<p align="center" style="margin: 0px !important;">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&theme=merko&layout=compact)</p><br><br><br><br><br><br><br><br><br><br><br>|

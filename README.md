@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HolliShake)](https://git.io/streak-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app)

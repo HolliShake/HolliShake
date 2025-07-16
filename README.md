@@ -1,8 +1,8 @@
 <!-- Profile README - YourUsername -->
 
-<h1 align="center">Hey there 👋, I'm YourName</h1>
+<h1 align="center">Hey there 👋, I'm Philipp Andrew</h1>
 <p align="center">
-  <i>Creative Developer | Lifelong Learner | Tech Tinkerer</i><br/>
+  <i>Creative Developer | Hobbiest Developer | Tech Tinkere</i><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Fullstack+Engineer;Open+Source+Contributor;Lover+of+Clean+Code;Always+Learning+New+Stuff" alt="Typing SVG" />
 </p>
 

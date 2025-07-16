@@ -2,14 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:      # allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: HolliShake
@@ -22,5 +22,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

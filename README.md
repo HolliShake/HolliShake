@@ -26,7 +26,7 @@
 ### 🚀 Projects Worth Checking Out
 
 - 🔥 [Project 1](https://github.com/HolliShake/project1) — Modern web platform built with React + Express  
-- 🧠 [Project 2](https://github.com/HolliShake/project2) — AI-powered something with OpenAI API  
+- 🧠 [AorusVM](https://github.com/HolliShake/aorusvm) — AorusVM, opensource virtualmachine for D.I.Y interpreter runtime
 - 📦 [Project 3](https://github.com/HolliShake/project3) — Clean architecture, Dockerized fullstack starter
 
 ---

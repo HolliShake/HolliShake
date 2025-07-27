@@ -36,8 +36,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=radical&hide_border=true&bg_color=0d1117" style="width: 100%;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" style="width: 50%;" />
 </p>
 <table style="border: none; background-color: transparent;">
   <tr>

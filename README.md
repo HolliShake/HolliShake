@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" />
   <br/>
-  <div style="display: flex; gap: 12px; align-items: start;">
+  <div style="display: flex; gap: 12px; align-items: stretch;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true"
       height="100%"

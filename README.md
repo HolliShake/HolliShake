@@ -27,7 +27,7 @@
 
 - 🔥 [Project 1](https://github.com/HolliShake/project1) — Modern web platform built with React + Express  
 - 🧠 [AorusVM](https://github.com/HolliShake/aorusvm) — AorusVM, opensource virtualmachine for D.I.Y interpreter runtime
-- 📦 [Project 3](https://github.com/HolliShake/project3) — Clean architecture, Dockerized fullstack starter
+- 📦 [.NET clean-architecture-starter](https://github.com/HolliShake/clean-architecture-template) — Clean architecture, Dockerized fullstack starter
 
 ---
 

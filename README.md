@@ -33,13 +33,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center" style="gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <table>
   <tr>
     <td>
@@ -56,7 +49,6 @@
   </tr>
 </table>
 
-
 ---
 
 ### 📊 Contributions
@@ -66,6 +58,12 @@
 </p>
 
 ---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HolliShake&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+</p>
 
 ### 🎯 Currently Working On
 

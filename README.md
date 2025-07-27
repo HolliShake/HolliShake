@@ -33,7 +33,9 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=radical&hide_border=true&bg_color=0d1117" style="width: 100%;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=radical&hide_border=true&bg_color=0d1117" style="width: 100%;" />
+</p>
 <table style="border: none; background-color: transparent;">
   <tr>
     <td colspan="2" style="border: none;">

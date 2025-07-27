@@ -36,16 +36,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" />
   <br/>
-  <div style="display: flex; gap: 12px; align-items: stretch;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true"
-      height="100%"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true"
-      height="100%"
-    />
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" style="height: 195px" />

@@ -42,7 +42,7 @@
 <table style="border: none; background-color: transparent;">
   <tr>
     <td colspan="2" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=radical&hide_border=true&bg_color=0d1117" style="width: 100%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" style="width: 100%;" />
     </td>
   </tr>
   <tr>

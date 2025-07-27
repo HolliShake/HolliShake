@@ -38,7 +38,7 @@
   <br/>
   <table>
     <tr>
-      <td>
+      <td col-span="2">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" style="width: 100%" />
       </td>
     </tr>

@@ -40,6 +40,9 @@
     </td>
   </tr>
   <tr>
+</table>
+<table style="border: none; background-color: transparent;">
+  <tr>
     <td style="border: none; background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
     </td>

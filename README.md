@@ -36,15 +36,15 @@
 <table style="border: none; background-color: transparent;">
   <tr>
     <td colspan="2" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=cobalt&hide_border=true&bg_color=0d1117" style="width: 100%;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=yeblu&hide_border=true&bg_color=0d1117" style="width: 100%;" />
     </td>
   </tr>
   <tr>
     <td style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=yeblu&hide_border=true&bg_color=0d1117" />
     </td>
     <td style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=yeblu&hide_border=true&bg_color=0d1117" />
     </td>
   </tr>
 </table>

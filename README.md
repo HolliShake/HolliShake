@@ -54,7 +54,7 @@
 ### 🎯 Currently Working On
 
 ```bash
-> Building cool things with TypeScript and Rust 🦀
+> Building cool things with TypeScript and Python 🦀
 > Learning more about distributed systems ☁️
 > Exploring LLM-based tooling 🧠
 ```

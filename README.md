@@ -39,6 +39,11 @@
   <table>
     <tr>
       <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" style="width: 100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
       <td>

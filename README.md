@@ -47,10 +47,10 @@
   </tr>
   <tr>
     <td style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true" style="width: 50%;" />
     </td>
     <td style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" style="width: 50%;" />
     </td>
   </tr>
 </table>

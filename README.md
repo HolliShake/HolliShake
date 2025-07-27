@@ -42,6 +42,14 @@
 
 ---
 
+### 📊 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HolliShake&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🎯 Currently Working On
 
 ```bash

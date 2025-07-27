@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 Contributions
+### 📈 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HolliShake&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
@@ -59,11 +59,13 @@
 
 ---
 
-### Trophies
+### 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HolliShake&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
 </p>
+
+---
 
 ### 🎯 Currently Working On
 

@@ -93,7 +93,7 @@
 
 - 🕹 I love building open-source CLI tools
 - 📚 I collect CS books and cheat sheets
-- 🎵 I code better when listening to synthwave
+- 🎵 I code better when I'm alone
 
 ---
 

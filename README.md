@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HolliShake/HolliShake/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://HolliShake.github.io/HolliShake/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>

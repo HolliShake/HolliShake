@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/HolliShake"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HolliShake?style=social"></a>
   <a href="https://twitter.com/HolliShake"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HolliShake?style=social"></a>
-  <a href="https://linkedin.com/in/HolliShake"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/philipp-redondo-16215a197"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:redondophilippandrewroa.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,php,laravel,dotnet,c,cpp,cs,python,mysql,postgres,redis,docker,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,bootstrap,nextjs,nodejs,express,tailwind,php,laravel,dotnet,c,cpp,cs,python,mysql,postgres,redis,docker,git,vscode,linux" />
 </p>
 
 ---
@@ -28,6 +28,7 @@
 - 🔥 [Project 1](https://github.com/HolliShake/project1) — Modern web platform built with React + Express  
 - 🧠 [AorusVM](https://github.com/HolliShake/aorusvm) — AorusVM, opensource virtualmachine for D.I.Y interpreter runtime
 - ⚛️ [Atom](https://github.com/HolliShake/atomv3) — Atom, opensource interpreted language written in pure Go
+- 🚗 [GeoCars](https://github.com/HolliShake/geocars-fullstack-laravel) — Geocars, geographically located car for car rental business
 - 📦 [.NET clean-architecture-starter](https://github.com/HolliShake/clean-architecture-template) — Clean architecture, Dockerized fullstack starter
 
 ---

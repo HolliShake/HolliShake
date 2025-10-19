@@ -27,10 +27,12 @@
 
 - ⚛️ [Atom](https://github.com/HolliShake/atomv3) — Atom, opensource interpreted language written in pure Go
 - 🖥️ [serverless-iis](https://github.com/HolliShake/serverless-iis) — Serverless-iis, remote iis server web admin panel
-- 🧠 [AorusVM](https://github.com/HolliShake/aorusvm) — AorusVM, opensource virtualmachine for D.I.Y interpreter runtime
 - 🚗 [GeoCars](https://github.com/HolliShake/geocars-fullstack-laravel) — Geocars, geographically located car for car rental business
 - 🎓 [EduPortal](https://github.com/HolliShake/edusync-core-fullstack) — EduPortal, Edusync Student LMS with CQI re-implemented with laravel as fullstack
-- 📦 [.NET clean-architecture-starter](https://github.com/HolliShake/clean-architecture-template) — Clean architecture, Dockerized fullstack starter
+- 📦 [.NET clean-architecture-starter](https://github.com/HolliShake/clean-architecture-template) — Clean architecture, Dockerized fullstack starter, using .NET Core
+- 🦁 [fullstack-boilerplate](https://github.com/HolliShake/fullstack-boilerplate) — fullstack-boilerplate, Dockerized fullstack starter using nextjs14 + nestJS for backend
+- 🧠 [envx](https://github.com/HolliShake/envx) — envx, dynamic environment generator
+- 🧠 [AorusVM](https://github.com/HolliShake/aorusvm) — AorusVM, opensource virtualmachine for D.I.Y interpreter runtime
 
 ---
 

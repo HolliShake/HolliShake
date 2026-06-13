@@ -27,6 +27,7 @@
 
 - 🔥 [ZayneScript](https://github.com/HolliShake/zaynescript) — ZayneScript, A programming language written in C for zayne andrew
 - ⚔️ [Obiwan](https://github.com/HolliShake/obiwan) — Obiwan, A programming language written in C# for automation
+- 🚀 [Yellec](https://github.com/HolliShake/yellec) — Yellec, A programming language that targets C/tcc for easier syntax
 - ⚛️ [Atom](https://github.com/HolliShake/atomv3) — Atom, opensource interpreted language written in pure Go
 - 🖥️ [serverless-iis](https://github.com/HolliShake/serverless-iis) — Serverless-iis, remote iis server web admin panel
 - 🚗 [GeoCars](https://github.com/HolliShake/geocars-fullstack-laravel) — Geocars, geographically located car for car rental business

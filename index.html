@@ -528,10 +528,10 @@
     obiwan: {
       title: "Obiwan",
       host: "HOST: C#",
-      meta: "automation language · written in C#",
-      desc: "A programming language purpose-built for scripting automation workflows, implemented in C#.",
+      meta: "language · written in C#",
+      desc: "A programming language with a built-in provide/inject mechanism for passing context and values across function calls, implemented in C#.",
       link: "https://github.com/HolliShake/obiwan",
-      code: '<span class="com">// obiwan.ob</span>\n<span class="kw">task</span> <span class="fn">backup</span>() {\n  <span class="kw">run</span> <span class="str">"copy src dst"</span>\n  <span class="kw">on_fail</span> <span class="fn">retry</span>(3)\n}'
+      code: '<span class="kw">fn</span> <span class="fn">parent</span>() {\n  <span class="fn">provide</span>(<span class="str">"name"</span>, {\n    add: <span class="kw">fn</span>(a, b) {\n      <span class="kw">return</span> a + b;\n    }\n  });\n  <span class="fn">child</span>();\n}\n<span class="kw">fn</span> <span class="fn">child</span>() {\n  <span class="fn">println</span>(<span class="fn">inject</span>(<span class="str">"name"</span>));\n  <span class="fn">println</span>(<span class="str">">>>>>"</span>, <span class="fn">inject</span>(<span class="str">"name"</span>)-&gt;<span class="fn">add</span>(1, 5));\n}'
     },
     yellec: {
       title: "Yellec",

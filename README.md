@@ -32,7 +32,7 @@
 - 🖥️ [serverless-iis](https://github.com/HolliShake/serverless-iis) — Serverless-iis, remote iis server web admin panel
 - 🚗 [GeoCars](https://github.com/HolliShake/geocars-fullstack-laravel) — Geocars, geographically located car for car rental business
 - 🎓 [EduPortal](https://github.com/HolliShake/edusync-core-fullstack) — EduPortal, Edusync Student LMS with CQI re-implemented with laravel as fullstack
-- 💸 [ExpenseTracker](https://github.com/HolliShake/expense-tracker) - Expense Trackker, manage, visualize monthly expense
+- 💸 [ExpenseTracker](https://github.com/HolliShake/expense-tracker) - Expense Tracker, manage, visualize monthly expense
 - 📦 [.NET clean-architecture-starter](https://github.com/HolliShake/clean-architecture-template) — Clean architecture, Dockerized fullstack starter, using .NET Core
 - 🦁 [fullstack-boilerplate](https://github.com/HolliShake/fullstack-boilerplate) — fullstack-boilerplate, Dockerized fullstack starter using nextjs14 + nestJS for backend
 - ♻️ [envx](https://github.com/HolliShake/envx) — envx, dynamic environment generator

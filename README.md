@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Projects Worth Checking Out
-
+- 🌪️ [Storm-Cli](https://github.com/HolliShake/storm-cli) — Storm-cli, A Schema to Source code generator supports laravel 12+ and dotnet 8+
 - 🔥 [ZayneScript](https://github.com/HolliShake/zaynescript) — ZayneScript, A programming language written in C for zayne andrew
 - ⚔️ [Obiwan](https://github.com/HolliShake/obiwan) — Obiwan, A programming language written in C# for automation
 - 🚀 [Yellec](https://github.com/HolliShake/yellec) — Yellec, A programming language that targets C/tcc for easier syntax

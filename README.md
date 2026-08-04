@@ -39,6 +39,14 @@
     <td>A programming language written in C, built for Zayne Andrew</td>
   </tr>
   <tr>
+    <td>⛰️ <a href="https://github.com/HolliShake/vertex"><b>Vertex</b></a></td>
+    <td>A programming language written in go for embedded scripting</td>
+  </tr>
+  <tr>
+    <td>🧩 <a href="https://github.com/HolliShake/ebnf-pgen"><b>Ebnf PGen</b></a></td>
+    <td>An ebnf interpreter for simple language syntax parsing</td>
+  </tr>
+  <tr>
     <td>⚔️ <a href="https://github.com/HolliShake/obiwan"><b>Obiwan</b></a></td>
     <td>A programming language written in C# for automation</td>
   </tr>

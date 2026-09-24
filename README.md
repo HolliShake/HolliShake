@@ -96,19 +96,35 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  FIXED: the old "rickstaa" fork (github-readme-stats-git-masterrstaa-rickstaa.vercel.app)
+  returns HTTP 410 Gone — permanently dead. Swapped to a currently-live mirror below.
+  These free shared mirrors are still community-hosted and CAN go down again — for a
+  permanent fix, deploy your own instance in ~2 min:
+  https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+  (set env var PAT_1 to a GitHub personal access token, then swap the domain below for yours)
+-->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HolliShake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HolliShake&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HolliShake&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
 
 ## 📈 Contribution Activity
 
+<!--
+  NOTE: github-readme-activity-graph.vercel.app is currently returning HTTP 402
+  (the shared public instance hit its monthly usage cap). It may recover on its
+  own next billing cycle, but it will keep recurring since it's a shared free tier.
+  Permanent fix — deploy your own in ~2 min:
+  https://vercel.com/new/clone?repository-url=https://github.com/Ashutosh00710/github-readme-activity-graph
+  then replace the domain below with your own deployment URL.
+-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HolliShake&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
@@ -117,6 +133,12 @@
 
 ## 🏆 Trophies
 
+<!--
+  NOTE: github-profile-trophy.vercel.app is currently returning HTTP 402
+  (same shared-instance usage cap issue as above). Permanent fix — deploy your own:
+  https://vercel.com/new/clone?repository-url=https://github.com/ryo-ma/github-profile-trophy
+  then replace the domain below with your own deployment URL.
+-->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HolliShake&theme=tokyonight&no-frame=true&column=4&title=-Experience" alt="Trophies" />
 </div>
@@ -136,7 +158,7 @@
 ## 🔥 Fun Facts
 
 - 🕹 I love building open-source CLI tools
-- 📚 I collect CS books and cheat sheets
+- 📚 I collect cheat sheets
 - 🎵 I code better when I'm alone
 - 🛠 I'd rather write my own compiler than read the docs of someone else's
 

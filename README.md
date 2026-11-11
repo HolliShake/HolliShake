@@ -103,8 +103,8 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 | [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [**Obiwan**](https://github.com/HolliShake/obiwan) | Language designed for automation | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**Yellec**](https://github.com/HolliShake/yellec) | Easier-syntax language that targets C / tcc | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | — |
-| [**Ebnf PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | — |
+| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| [**Ebnf PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 ### 🛠️ Developer tools
 

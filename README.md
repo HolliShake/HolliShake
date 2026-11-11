@@ -45,6 +45,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**OpenScript**](https://github.com/HolliShake/openscripting) | Small, fast scripting language for backend and automation, with async/await, classes, a coroutine-based VM and an adaptive native JIT. [Language reference](https://hollishake.github.io/openscripting/) | Go |
 | [**Atom**](https://github.com/HolliShake/atomv3) | Open-source interpreted language | Go |
 | [**Vertex**](https://github.com/HolliShake/vertex) | Language for embedded scripting | Go |
 | [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | C |
@@ -65,6 +66,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 | Project | What it is |
 |---|---|
+| [**EduSync Pro**](https://github.com/HolliShake/edusync-pro) | EdusyncERP rewrite with premium features: one higher-education platform for admissions, academics, student services and CQI, on .NET 10 + React 19 with Android/iOS apps via Capacitor. Proprietary, see the [official site](https://hollishake.github.io/edusync-base/) |
 | [**GeoCars**](https://github.com/HolliShake/geocars-fullstack-laravel) | Geographically-located car rental platform |
 | [**EduPortal**](https://github.com/HolliShake/edusync-core-fullstack) | Edusync student LMS with CQI, rebuilt fullstack in Laravel |
 | [**ExpenseTracker**](https://github.com/HolliShake/expense-tracker) | Manage and visualize monthly expenses |

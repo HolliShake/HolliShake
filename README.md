@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Philipp%20Andrew&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%20Language%20%26%20Compiler%20Tinkerer&descAlignY=58&descSize=16" alt="Philipp Andrew - Fullstack Engineer, Language and Compiler Tinkerer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=220&section=header&text=Philipp%20Andrew&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%C2%B7%20Language%20%26%20Compiler%20Tinkerer&descAlignY=60&descSize=17" alt="Philipp Andrew — Fullstack Engineer, Language and Compiler Tinkerer" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+languages+%26+compilers+for+fun;Shipping+fullstack+apps+for+a+living;Open-source+CLI+tool+enthusiast;Always+learning+something+new" alt="Typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+languages+%26+compilers+for+fun;Shipping+fullstack+apps+for+a+living;Open-source+CLI+tool+enthusiast;Always+learning+something+new" alt="Typing animation"/>
 
 <br/>
 
@@ -16,17 +16,17 @@
 <br/><br/>
 
 <sub>
-<a href="#about"><b>About</b></a> &nbsp;•&nbsp;
-<a href="#featured"><b>Featured</b></a> &nbsp;•&nbsp;
-<a href="#all-projects"><b>Projects</b></a> &nbsp;•&nbsp;
-<a href="#tech-stack"><b>Stack</b></a> &nbsp;•&nbsp;
-<a href="#github-stats"><b>Stats</b></a> &nbsp;•&nbsp;
+<a href="#about"><b>About</b></a> &nbsp;·&nbsp;
+<a href="#featured"><b>Featured</b></a> &nbsp;·&nbsp;
+<a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
+<a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#stats"><b>Stats</b></a> &nbsp;·&nbsp;
 <a href="#contact"><b>Contact</b></a>
 </sub>
 
 </div>
 
-<br/>
+---
 
 ## About
 
@@ -36,7 +36,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
   <tr>
     <td width="33%" valign="top">
       <b>🔭 Building</b><br/>
-      <sub>TypeScript and Python</sub>
+      <sub>TypeScript &amp; Python</sub>
     </td>
     <td width="33%" valign="top">
       <b>🌱 Learning</b><br/>
@@ -59,15 +59,15 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
   </tr>
 </table>
 
-<br/>
+---
 
 ## Featured
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HolliShake/openscripting">OpenScript</a></h3>
-      <p>A small, fast scripting language for backend and automation. Async/await, classes, a coroutine-based VM and an adaptive native JIT.</p>
+      <h3>📜 <a href="https://github.com/HolliShake/openscripting">OpenScript</a></h3>
+      <p>A small, fast scripting language for backend and automation. Async/await, classes, a coroutine-based VM, and an adaptive native JIT.</p>
       <p>
         <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
         <img alt="MIT" src="https://img.shields.io/badge/MIT-license-blue?style=flat-square">
@@ -76,8 +76,8 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
       <p><a href="https://github.com/HolliShake/openscripting"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://hollishake.github.io/openscripting/"><b>Language reference</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/HolliShake/edusync-pro">EduSync Pro</a></h3>
-      <p>EdusyncERP rewrite with premium features. One platform for higher-ed admissions, academics, student services and CQI, with Android and iOS apps.</p>
+      <h3>🎓 <a href="https://github.com/HolliShake/edusync-pro">EduSync Pro</a></h3>
+      <p>EdusyncERP rewrite with premium features. One platform for higher-ed admissions, academics, student services, and CQI — with Android and iOS apps.</p>
       <p>
         <img alt=".NET 10" src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white">
         <img alt="React 19" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -89,22 +89,22 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
   </tr>
 </table>
 
-<br/>
+---
 
-## All Projects
+## Projects
 
 ### 🧬 Languages, compilers & runtimes
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**OpenScript**](https://github.com/HolliShake/openscripting) | Scripting language for backend and automation | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**Atom**](https://github.com/HolliShake/atomv3) | Open-source interpreted language | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**Vertex**](https://github.com/HolliShake/vertex) | Language for embedded scripting | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [**Obiwan**](https://github.com/HolliShake/obiwan) | Language designed for automation | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| [**Yellec**](https://github.com/HolliShake/yellec) | Easier-syntax language that targets C / tcc | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [**Ebnf PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**OpenScript**](https://github.com/HolliShake/openscripting) | Scripting language for backend and automation | `Go` |
+| [**Atom**](https://github.com/HolliShake/atomv3) | Open-source interpreted language | `Go` |
+| [**Vertex**](https://github.com/HolliShake/vertex) | Language for embedded scripting | `Go` |
+| [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | `C` |
+| [**Obiwan**](https://github.com/HolliShake/obiwan) | Language designed for automation | `C#` |
+| [**Yellec**](https://github.com/HolliShake/yellec) | Easier-syntax language that targets C / tcc | `C` |
+| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | `C` |
+| [**EBNF PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | `Go` |
 
 ### 🛠️ Developer tools
 
@@ -118,20 +118,20 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**EduSync Pro**](https://github.com/HolliShake/edusync-pro) | EdusyncERP rewrite with premium features | ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**GeoCars**](https://github.com/HolliShake/geocars-fullstack-laravel) | Geographically-located car rental platform | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| [**EduPortal**](https://github.com/HolliShake/edusync-core-fullstack) | Edusync student LMS with CQI, rebuilt fullstack | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| [**EduSync Pro**](https://github.com/HolliShake/edusync-pro) | EdusyncERP rewrite with premium features | `.NET 10` · `React 19` |
+| [**GeoCars**](https://github.com/HolliShake/geocars-fullstack-laravel) | Geographically-located car rental platform | `Laravel` |
+| [**EduPortal**](https://github.com/HolliShake/edusync-core-fullstack) | Edusync student LMS with CQI, rebuilt fullstack | `Laravel` |
 | [**ExpenseTracker**](https://github.com/HolliShake/expense-tracker) | Manage and visualize monthly expenses | — |
-| [**Clean Architecture Starter**](https://github.com/HolliShake/clean-architecture-template) | Dockerized fullstack starter | ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| [**Fullstack Boilerplate**](https://github.com/HolliShake/fullstack-boilerplate) | Dockerized starter with Next.js 14 + NestJS | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**Clean Architecture Starter**](https://github.com/HolliShake/clean-architecture-template) | Dockerized fullstack starter | `.NET Core` · `Docker` |
+| [**Fullstack Boilerplate**](https://github.com/HolliShake/fullstack-boilerplate) | Dockerized starter with Next.js 14 + NestJS | `Next.js` · `NestJS` · `Docker` |
 
-<br/>
+---
 
-## Tech Stack
+## Stack
 
 <table>
   <tr>
-    <td width="130" valign="middle"><b>Frontend</b></td>
+    <td width="140" valign="middle"><b>Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vuejs,tailwind,bootstrap" alt="Frontend: TypeScript, JavaScript, React, Next.js, Vue, Tailwind, Bootstrap"/></td>
   </tr>
   <tr>
@@ -148,9 +148,9 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
   </tr>
 </table>
 
-<br/>
+---
 
-## GitHub Stats
+## Stats
 
 <!--
   These cards run on free, community-hosted mirrors and can go down (HTTP 402/410).
@@ -199,7 +199,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 </details>
 
-<br/>
+---
 
 ## Contact
 
@@ -207,9 +207,13 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 Got an idea, a language to nerd out over, or a project to build? Reach out.
 
+<br/>
+
 <a href="mailto:redondophilippandrewroa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/philipp-redondo-16215a197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/HolliShake"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" alt="" width="100%"/>
 

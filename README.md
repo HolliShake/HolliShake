@@ -113,6 +113,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 | [**Storm-Cli**](https://github.com/HolliShake/storm-cli) | Schema-to-source-code generator for Laravel 12+ and .NET 8+ |
 | [**envx**](https://github.com/HolliShake/envx) | Dynamic environment generator |
 | [**serverless-iis**](https://github.com/HolliShake/serverless-iis) | Remote IIS web admin panel |
+| [**XFCE Utility**](https://github.com/HolliShake/xfce-util-gui) | Linux desktop app to browse and apply GTK, XFWM4, icon, cursor, and KDE Plasma themes, plus display-manager settings, from one interface. Built with `Python` · `CustomTkinter` |
 
 ### 🌐 Fullstack apps & starters
 

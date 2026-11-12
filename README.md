@@ -93,28 +93,6 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 
 ## Projects
 
-### 🧬 Languages, compilers & runtimes
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**OpenScript**](https://github.com/HolliShake/openscripting) | Scripting language for backend and automation | `Go` |
-| [**Atom**](https://github.com/HolliShake/atomv3) | Open-source interpreted language | `Go` |
-| [**Vertex**](https://github.com/HolliShake/vertex) | Language for embedded scripting | `Go` |
-| [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | `C` |
-| [**Obiwan**](https://github.com/HolliShake/obiwan) | Language designed for automation | `C#` |
-| [**Yellec**](https://github.com/HolliShake/yellec) | Easier-syntax language that targets C / tcc | `C` |
-| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | `C` |
-| [**EBNF PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | `Go` |
-
-### 🛠️ Developer tools
-
-| Project | Description |
-|:--|:--|
-| [**Storm-Cli**](https://github.com/HolliShake/storm-cli) | Schema-to-source-code generator for Laravel 12+ and .NET 8+ |
-| [**envx**](https://github.com/HolliShake/envx) | Dynamic environment generator |
-| [**serverless-iis**](https://github.com/HolliShake/serverless-iis) | Remote IIS web admin panel |
-| [**XFCE Utility**](https://github.com/HolliShake/xfce-util-gui) | Linux desktop app to browse and apply GTK, XFWM4, icon, cursor, and KDE Plasma themes, plus display-manager settings, from one interface. Built with `Python` · `CustomTkinter` |
-
 ### 🌐 Fullstack apps & starters
 
 | Project | Description | Stack |
@@ -125,6 +103,28 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 | [**ExpenseTracker**](https://github.com/HolliShake/expense-tracker) | Manage and visualize monthly expenses | — |
 | [**Clean Architecture Starter**](https://github.com/HolliShake/clean-architecture-template) | Dockerized fullstack starter | `.NET Core` · `Docker` |
 | [**Fullstack Boilerplate**](https://github.com/HolliShake/fullstack-boilerplate) | Dockerized starter with Next.js 14 + NestJS | `Next.js` · `NestJS` · `Docker` |
+
+### 🧬 Languages, compilers & runtimes
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**OpenScript**](https://github.com/HolliShake/openscripting) | Scripting language for backend and automation | `Go` |
+| [**ZayneScript**](https://github.com/HolliShake/zaynescript) | A programming language built for Zayne Andrew | `C` |
+| [**Obiwan**](https://github.com/HolliShake/obiwan) | Language designed for automation | `C#` |
+| [**Atom**](https://github.com/HolliShake/atomv3) | Open-source interpreted language | `Go` |
+| [**EBNF PGen**](https://github.com/HolliShake/ebnf-pgen) | EBNF interpreter for simple language syntax parsing | `Go` |
+| [**Vertex**](https://github.com/HolliShake/vertex) | Language for embedded scripting | `Go` |
+| [**Yellec**](https://github.com/HolliShake/yellec) | Easier-syntax language that targets C / tcc | `C` |
+| [**AorusVM**](https://github.com/HolliShake/aorusvm) | Virtual machine for D.I.Y. interpreter runtimes | `C` |
+
+### 🛠️ Developer tools
+
+| Project | Description |
+|:--|:--|
+| [**Storm-Cli**](https://github.com/HolliShake/storm-cli) | Schema-to-source-code generator for Laravel 12+ and .NET 8+ |
+| [**XFCE Utility**](https://github.com/HolliShake/xfce-util-gui) | Linux desktop app to browse and apply GTK, XFWM4, icon, cursor, and KDE Plasma themes, plus display-manager settings, from one interface. Built with `Python` · `CustomTkinter` |
+| [**envx**](https://github.com/HolliShake/envx) | Dynamic environment generator |
+| [**serverless-iis**](https://github.com/HolliShake/serverless-iis) | Remote IIS web admin panel |
 
 ---
 

@@ -13,6 +13,7 @@
 <a href="mailto:redondophilippandrewroa.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/HolliShake?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HolliShake?style=for-the-badge&logo=github&color=181717"></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=HolliShake&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+<a href="https://hub.xerj.org/contributors/HolliShake"><img alt="XERJ Corpus Hub contributor" src="https://hub.xerj.org/contributors/HolliShake/badge.svg"></a>
 
 <br/><br/>
 

@@ -89,19 +89,6 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
       <p><a href="https://github.com/HolliShake/edusync-pro"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://hollishake.github.io/edusync-base/"><b>Official site</b></a></p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌙 <a href="https://github.com/HolliShake/noctalia-util-gui">Noctalia Util GUI</a></h3>
-      <p>An all-in-one desktop configuration editor for <b>Noctalia Shell</b> and <b>Umbriel</b>. Browse every setting in a searchable interface, pick from built-in, community, and custom palettes, explore the live Umbriel schema, and validate before saving. Writes are atomic, with <code>.bak</code> backups and external-change detection.</p>
-      <p>
-        <img alt="Python 3.11+" src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img alt="CustomTkinter" src="https://img.shields.io/badge/CustomTkinter-1f6aa5?style=flat-square">
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-        <img alt="MIT" src="https://img.shields.io/badge/MIT-license-blue?style=flat-square">
-      </p>
-      <p><a href="https://github.com/HolliShake/noctalia-util-gui"><b>Repository</b></a></p>
-    </td>
-  </tr>
 </table>
 
 ---

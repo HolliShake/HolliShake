@@ -100,6 +100,7 @@ I'm a fullstack engineer who loves two things: **shipping practical products** a
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**EduSync Pro**](https://github.com/HolliShake/edusync-pro) | EdusyncERP rewrite with premium features | `.NET 10` · `React 19` |
+| [**OpenStore**](https://github.com/HolliShake/openstore) | Single-store POS and inventory app for neighborhood shops, with a public storefront, stock control, and sales reporting | `Next.js` · `Prisma` · `SQLite` · `Bun` |
 | [**GeoCars**](https://github.com/HolliShake/geocars-fullstack-laravel) | Geographically-located car rental platform | `Laravel` |
 | [**EduPortal**](https://github.com/HolliShake/edusync-core-fullstack) | Edusync student LMS with CQI, rebuilt fullstack | `Laravel` |
 | [**ExpenseTracker**](https://github.com/HolliShake/expense-tracker) | Manage and visualize monthly expenses | — |
